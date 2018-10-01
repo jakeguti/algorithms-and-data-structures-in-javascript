@@ -1,0 +1,43 @@
+{
+  "name": "algorithms-and-data-structures-in-javascript",
+  "version": "1.0.0",
+  "description": "Implementation in JavaScript of some common algorithms and data structures from computer science",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "<rootDir>/node_modules/"
+    ],
+    "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.jsx?$"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakeguti/algorithms-and-data-structures-in-javascript.git"
+  },
+  "keywords": [
+    "algorithms",
+    "computer-science",
+    "javascript",
+    "data-structures"
+  ],
+  "author": "jarod <jarod0b11001@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/issues"
+  },
+  "homepage": "https://github.com/jakeguti/algorithms-and-data-structures-in-javascript#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^21.24.0",
+    "jest": "^23.6.0",
+    "regenerator-runtime": "^0.12.1"
+  }
+}
