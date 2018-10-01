@@ -1,0 +1,13 @@
+{
+  "extends": "airbnb-base",
+  "plugins": ["jest"],
+  "env": {
+    "jest/globals": true
+  },
+  "rules": {
+    "class-methods-use-this": "off",
+    "no-bitwise": "off",
+    "no-continue": "off",
+    "no-underscore-dangle": "off"
+  }
+}
