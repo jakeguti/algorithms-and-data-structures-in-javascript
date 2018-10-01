@@ -17,3 +17,11 @@ This repository is my implementation in JavaScript of common algorithms and data
 ## Algorithms
 
 ## Data Structures
+
+### Linked Lists
+
+- [Singly Linked List](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/data-structures/singly-linked-list/singly-linked-list.js)
+
+- [Queue](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/data-structures/queue/queue.js)
+
+- [Stack](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/data-structures/stack/stack.js)
