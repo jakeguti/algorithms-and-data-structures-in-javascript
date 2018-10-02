@@ -1,5 +1,7 @@
 # Algorithms and data structures implemented in JavaScript
 
+[![Build Status](https://travis-ci.org/jakeguti/algorithms-and-data-structures-in-javascript.svg?branch=master)](https://travis-ci.org/jakeguti/algorithms-and-data-structures-in-javascript)
+
 This repository is my implementation in JavaScript of common algorithms and data structures from Computer Science.
 
 **Install all dependencies**
@@ -15,6 +17,14 @@ This repository is my implementation in JavaScript of common algorithms and data
 ```
 
 ## Algorithms
+
+### Search
+
+- [Binary Search](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/algorithms/search/binary-search/binary-search.js)
+
+### Sorting
+
+- [Selection Sort](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/algorithms/sorting/selection/selection-sort.js)
 
 ## Data Structures
 
