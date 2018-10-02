@@ -8,6 +8,7 @@
     "class-methods-use-this": "off",
     "no-bitwise": "off",
     "no-continue": "off",
-    "no-underscore-dangle": "off"
+    "no-underscore-dangle": "off",
+    "no-param-reassign": "off"
   }
 }
