@@ -26,11 +26,13 @@ This repository is my implementation in JavaScript of common algorithms and data
 
 ### Sorting
 
-- [Selection Sort](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/algorithms/sorting/selection/selection-sort.js)
-
 - [Bubble Sort](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/algorithms/sorting/bubble-sort/bubble-sort.js)
 
-- [Quicksort](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/algorithms/sorting/quick-sort/quick-sort.js)
+- [Merge Sort](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/algorithms/sorting/merge-sort/merge-sort.js)
+
+- [Quick sort](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/algorithms/sorting/quick-sort/quick-sort.js)
+
+- [Selection Sort](https://github.com/jakeguti/algorithms-and-data-structures-in-javascript/blob/master/src/algorithms/sorting/selection/selection-sort.js)
 
 ## Data Structures
 
